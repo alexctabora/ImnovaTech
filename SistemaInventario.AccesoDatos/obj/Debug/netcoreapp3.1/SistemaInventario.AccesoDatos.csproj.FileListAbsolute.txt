@@ -1,0 +1,27 @@
+C:\Users\barce\source\repos\SistemaInventario\SistemaInventario.AccesoDatos\bin\Debug\netcoreapp3.1\SistemaInventario.AccesoDatos.deps.json
+C:\Users\barce\source\repos\SistemaInventario\SistemaInventario.AccesoDatos\bin\Debug\netcoreapp3.1\SistemaInventario.AccesoDatos.dll
+C:\Users\barce\source\repos\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\netcoreapp3.1\SistemaInventario.AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\barce\source\repos\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\netcoreapp3.1\SistemaInventario.AccesoDatos.AssemblyInfo.cs
+C:\Users\barce\source\repos\SistemaInventario\SistemaInventario.AccesoDatos\bin\Debug\netcoreapp3.1\SistemaInventario.AccesoDatos.pdb
+C:\Users\barce\source\repos\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\netcoreapp3.1\SistemaInventario.AccesoDatos.dll
+C:\Users\barce\source\repos\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\netcoreapp3.1\SistemaInventario.AccesoDatos.pdb
+C:\Users\barce\source\repos\SistemaInventario\SistemaInventario.AccesoDatos\bin\Debug\netcoreapp3.1\SistemaInventario.Modelos.dll
+C:\Users\barce\source\repos\SistemaInventario\SistemaInventario.AccesoDatos\bin\Debug\netcoreapp3.1\SistemaInventario.Utilidades.dll
+C:\Users\barce\source\repos\SistemaInventario\SistemaInventario.AccesoDatos\bin\Debug\netcoreapp3.1\SistemaInventario.Modelos.pdb
+C:\Users\barce\source\repos\SistemaInventario\SistemaInventario.AccesoDatos\bin\Debug\netcoreapp3.1\SistemaInventario.Utilidades.pdb
+C:\Users\barce\source\repos\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\netcoreapp3.1\SistemaInventario.AccesoDatos.csprojAssemblyReference.cache
+C:\Users\barce\source\repos\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\netcoreapp3.1\SistemaInventario.AccesoDatos.csproj.CopyComplete
+D:\Proyectos Progra\Actualizado 2.0\SistemaInventario\SistemaInventario\SistemaInventario.AccesoDatos\bin\Debug\netcoreapp3.1\SistemaInventario.AccesoDatos.deps.json
+D:\Proyectos Progra\Actualizado 2.0\SistemaInventario\SistemaInventario\SistemaInventario.AccesoDatos\bin\Debug\netcoreapp3.1\SistemaInventario.AccesoDatos.dll
+D:\Proyectos Progra\Actualizado 2.0\SistemaInventario\SistemaInventario\SistemaInventario.AccesoDatos\bin\Debug\netcoreapp3.1\SistemaInventario.AccesoDatos.pdb
+D:\Proyectos Progra\Actualizado 2.0\SistemaInventario\SistemaInventario\SistemaInventario.AccesoDatos\bin\Debug\netcoreapp3.1\SistemaInventario.Modelos.dll
+D:\Proyectos Progra\Actualizado 2.0\SistemaInventario\SistemaInventario\SistemaInventario.AccesoDatos\bin\Debug\netcoreapp3.1\SistemaInventario.Utilidades.dll
+D:\Proyectos Progra\Actualizado 2.0\SistemaInventario\SistemaInventario\SistemaInventario.AccesoDatos\bin\Debug\netcoreapp3.1\SistemaInventario.Modelos.pdb
+D:\Proyectos Progra\Actualizado 2.0\SistemaInventario\SistemaInventario\SistemaInventario.AccesoDatos\bin\Debug\netcoreapp3.1\SistemaInventario.Utilidades.pdb
+D:\Proyectos Progra\Actualizado 2.0\SistemaInventario\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\netcoreapp3.1\SistemaInventario.AccesoDatos.csprojAssemblyReference.cache
+D:\Proyectos Progra\Actualizado 2.0\SistemaInventario\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\netcoreapp3.1\SistemaInventario.AccesoDatos.AssemblyInfoInputs.cache
+D:\Proyectos Progra\Actualizado 2.0\SistemaInventario\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\netcoreapp3.1\SistemaInventario.AccesoDatos.AssemblyInfo.cs
+D:\Proyectos Progra\Actualizado 2.0\SistemaInventario\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\netcoreapp3.1\SistemaInventario.AccesoDatos.csproj.CoreCompileInputs.cache
+D:\Proyectos Progra\Actualizado 2.0\SistemaInventario\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\netcoreapp3.1\SistemaInventario.AccesoDatos.csproj.CopyComplete
+D:\Proyectos Progra\Actualizado 2.0\SistemaInventario\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\netcoreapp3.1\SistemaInventario.AccesoDatos.dll
+D:\Proyectos Progra\Actualizado 2.0\SistemaInventario\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\netcoreapp3.1\SistemaInventario.AccesoDatos.pdb

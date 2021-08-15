@@ -1,0 +1,17 @@
+C:\Users\barce\source\repos\SistemaInventario\SistemaInventario.Modelos\bin\Debug\netcoreapp3.1\SistemaInventario.Modelos.deps.json
+C:\Users\barce\source\repos\SistemaInventario\SistemaInventario.Modelos\bin\Debug\netcoreapp3.1\SistemaInventario.Modelos.dll
+C:\Users\barce\source\repos\SistemaInventario\SistemaInventario.Modelos\bin\Debug\netcoreapp3.1\SistemaInventario.Modelos.pdb
+C:\Users\barce\source\repos\SistemaInventario\SistemaInventario.Modelos\obj\Debug\netcoreapp3.1\SistemaInventario.Modelos.AssemblyInfoInputs.cache
+C:\Users\barce\source\repos\SistemaInventario\SistemaInventario.Modelos\obj\Debug\netcoreapp3.1\SistemaInventario.Modelos.AssemblyInfo.cs
+C:\Users\barce\source\repos\SistemaInventario\SistemaInventario.Modelos\obj\Debug\netcoreapp3.1\SistemaInventario.Modelos.dll
+C:\Users\barce\source\repos\SistemaInventario\SistemaInventario.Modelos\obj\Debug\netcoreapp3.1\SistemaInventario.Modelos.pdb
+C:\Users\barce\source\repos\SistemaInventario\SistemaInventario.Modelos\obj\Debug\netcoreapp3.1\SistemaInventario.Modelos.csprojAssemblyReference.cache
+D:\Proyectos Progra\Actualizado 2.0\SistemaInventario\SistemaInventario\SistemaInventario.Modelos\bin\Debug\netcoreapp3.1\SistemaInventario.Modelos.deps.json
+D:\Proyectos Progra\Actualizado 2.0\SistemaInventario\SistemaInventario\SistemaInventario.Modelos\bin\Debug\netcoreapp3.1\SistemaInventario.Modelos.dll
+D:\Proyectos Progra\Actualizado 2.0\SistemaInventario\SistemaInventario\SistemaInventario.Modelos\bin\Debug\netcoreapp3.1\SistemaInventario.Modelos.pdb
+D:\Proyectos Progra\Actualizado 2.0\SistemaInventario\SistemaInventario\SistemaInventario.Modelos\obj\Debug\netcoreapp3.1\SistemaInventario.Modelos.csprojAssemblyReference.cache
+D:\Proyectos Progra\Actualizado 2.0\SistemaInventario\SistemaInventario\SistemaInventario.Modelos\obj\Debug\netcoreapp3.1\SistemaInventario.Modelos.AssemblyInfoInputs.cache
+D:\Proyectos Progra\Actualizado 2.0\SistemaInventario\SistemaInventario\SistemaInventario.Modelos\obj\Debug\netcoreapp3.1\SistemaInventario.Modelos.AssemblyInfo.cs
+D:\Proyectos Progra\Actualizado 2.0\SistemaInventario\SistemaInventario\SistemaInventario.Modelos\obj\Debug\netcoreapp3.1\SistemaInventario.Modelos.csproj.CoreCompileInputs.cache
+D:\Proyectos Progra\Actualizado 2.0\SistemaInventario\SistemaInventario\SistemaInventario.Modelos\obj\Debug\netcoreapp3.1\SistemaInventario.Modelos.dll
+D:\Proyectos Progra\Actualizado 2.0\SistemaInventario\SistemaInventario\SistemaInventario.Modelos\obj\Debug\netcoreapp3.1\SistemaInventario.Modelos.pdb
