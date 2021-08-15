@@ -8397,11 +8397,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alex\\Desktop\\ProyectoFinalPV\\SistemaInventario\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj",
+      "projectUniqueName": "C:\\Users\\Alex\\Source\\Repos\\ImnovaTech\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj",
       "projectName": "SistemaInventario.AccesoDatos",
-      "projectPath": "C:\\Users\\Alex\\Desktop\\ProyectoFinalPV\\SistemaInventario\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj",
+      "projectPath": "C:\\Users\\Alex\\Source\\Repos\\ImnovaTech\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj",
       "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alex\\Desktop\\ProyectoFinalPV\\SistemaInventario\\SistemaInventario.AccesoDatos\\obj\\",
+      "outputPath": "C:\\Users\\Alex\\Source\\Repos\\ImnovaTech\\SistemaInventario.AccesoDatos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -8422,11 +8422,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Alex\\Desktop\\ProyectoFinalPV\\SistemaInventario\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj": {
-              "projectPath": "C:\\Users\\Alex\\Desktop\\ProyectoFinalPV\\SistemaInventario\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj"
+            "C:\\Users\\Alex\\Source\\Repos\\ImnovaTech\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj": {
+              "projectPath": "C:\\Users\\Alex\\Source\\Repos\\ImnovaTech\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj"
             },
-            "C:\\Users\\Alex\\Desktop\\ProyectoFinalPV\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj": {
-              "projectPath": "C:\\Users\\Alex\\Desktop\\ProyectoFinalPV\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj"
+            "C:\\Users\\Alex\\Source\\Repos\\ImnovaTech\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj": {
+              "projectPath": "C:\\Users\\Alex\\Source\\Repos\\ImnovaTech\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj"
             }
           }
         }

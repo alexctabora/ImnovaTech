@@ -25,3 +25,18 @@ D:\Proyectos Progra\Actualizado 2.0\SistemaInventario\SistemaInventario\SistemaI
 D:\Proyectos Progra\Actualizado 2.0\SistemaInventario\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\netcoreapp3.1\SistemaInventario.AccesoDatos.csproj.CopyComplete
 D:\Proyectos Progra\Actualizado 2.0\SistemaInventario\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\netcoreapp3.1\SistemaInventario.AccesoDatos.dll
 D:\Proyectos Progra\Actualizado 2.0\SistemaInventario\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\netcoreapp3.1\SistemaInventario.AccesoDatos.pdb
+C:\Users\Alex\Source\Repos\ImnovaTech\SistemaInventario.AccesoDatos\bin\Debug\netcoreapp3.1\SistemaInventario.AccesoDatos.deps.json
+C:\Users\Alex\Source\Repos\ImnovaTech\SistemaInventario.AccesoDatos\bin\Debug\netcoreapp3.1\SistemaInventario.AccesoDatos.dll
+C:\Users\Alex\Source\Repos\ImnovaTech\SistemaInventario.AccesoDatos\bin\Debug\netcoreapp3.1\SistemaInventario.AccesoDatos.pdb
+C:\Users\Alex\Source\Repos\ImnovaTech\SistemaInventario.AccesoDatos\bin\Debug\netcoreapp3.1\SistemaInventario.Modelos.dll
+C:\Users\Alex\Source\Repos\ImnovaTech\SistemaInventario.AccesoDatos\bin\Debug\netcoreapp3.1\SistemaInventario.Utilidades.dll
+C:\Users\Alex\Source\Repos\ImnovaTech\SistemaInventario.AccesoDatos\bin\Debug\netcoreapp3.1\SistemaInventario.Modelos.pdb
+C:\Users\Alex\Source\Repos\ImnovaTech\SistemaInventario.AccesoDatos\bin\Debug\netcoreapp3.1\SistemaInventario.Utilidades.pdb
+C:\Users\Alex\Source\Repos\ImnovaTech\SistemaInventario.AccesoDatos\obj\Debug\netcoreapp3.1\SistemaInventario.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Alex\Source\Repos\ImnovaTech\SistemaInventario.AccesoDatos\obj\Debug\netcoreapp3.1\SistemaInventario.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Source\Repos\ImnovaTech\SistemaInventario.AccesoDatos\obj\Debug\netcoreapp3.1\SistemaInventario.AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\Alex\Source\Repos\ImnovaTech\SistemaInventario.AccesoDatos\obj\Debug\netcoreapp3.1\SistemaInventario.AccesoDatos.AssemblyInfo.cs
+C:\Users\Alex\Source\Repos\ImnovaTech\SistemaInventario.AccesoDatos\obj\Debug\netcoreapp3.1\SistemaInventario.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Source\Repos\ImnovaTech\SistemaInventario.AccesoDatos\obj\Debug\netcoreapp3.1\SistemaInventario.AccesoDatos.csproj.CopyComplete
+C:\Users\Alex\Source\Repos\ImnovaTech\SistemaInventario.AccesoDatos\obj\Debug\netcoreapp3.1\SistemaInventario.AccesoDatos.dll
+C:\Users\Alex\Source\Repos\ImnovaTech\SistemaInventario.AccesoDatos\obj\Debug\netcoreapp3.1\SistemaInventario.AccesoDatos.pdb

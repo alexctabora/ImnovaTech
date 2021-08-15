@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AcmcKPjtnGQpQxDvi7itEV6c7cbEXS53NaJLRmJBXbbmmIzUrrbLg+HSMbMJR8Y0SFfJ++QxNuTw2Bmu2ER10A==",
+  "dgSpecHash": "YKOlL6ArEj4UhgzoiTlYReosURBkg+aIeJIk1Bh2bFmYszr867zt7HjzrEfTITcqzAcbWAEkMJt7bASoq0CYGQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alex\\Desktop\\ProyectoFinalPV\\SistemaInventario\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj",
+  "projectFilePath": "C:\\Users\\Alex\\Source\\Repos\\ImnovaTech\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alex\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
     "C:\\Users\\Alex\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

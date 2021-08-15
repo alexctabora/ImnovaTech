@@ -15,3 +15,13 @@ D:\Proyectos Progra\Actualizado 2.0\SistemaInventario\SistemaInventario\SistemaI
 D:\Proyectos Progra\Actualizado 2.0\SistemaInventario\SistemaInventario\SistemaInventario.Utilidades\obj\Debug\netcoreapp3.1\SistemaInventario.Utilidades.csproj.CoreCompileInputs.cache
 D:\Proyectos Progra\Actualizado 2.0\SistemaInventario\SistemaInventario\SistemaInventario.Utilidades\obj\Debug\netcoreapp3.1\SistemaInventario.Utilidades.dll
 D:\Proyectos Progra\Actualizado 2.0\SistemaInventario\SistemaInventario\SistemaInventario.Utilidades\obj\Debug\netcoreapp3.1\SistemaInventario.Utilidades.pdb
+C:\Users\Alex\Source\Repos\ImnovaTech\SistemaInventario.Utilidades\bin\Debug\netcoreapp3.1\SistemaInventario.Utilidades.deps.json
+C:\Users\Alex\Source\Repos\ImnovaTech\SistemaInventario.Utilidades\bin\Debug\netcoreapp3.1\SistemaInventario.Utilidades.dll
+C:\Users\Alex\Source\Repos\ImnovaTech\SistemaInventario.Utilidades\bin\Debug\netcoreapp3.1\SistemaInventario.Utilidades.pdb
+C:\Users\Alex\Source\Repos\ImnovaTech\SistemaInventario.Utilidades\obj\Debug\netcoreapp3.1\SistemaInventario.Utilidades.csproj.AssemblyReference.cache
+C:\Users\Alex\Source\Repos\ImnovaTech\SistemaInventario.Utilidades\obj\Debug\netcoreapp3.1\SistemaInventario.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Source\Repos\ImnovaTech\SistemaInventario.Utilidades\obj\Debug\netcoreapp3.1\SistemaInventario.Utilidades.AssemblyInfoInputs.cache
+C:\Users\Alex\Source\Repos\ImnovaTech\SistemaInventario.Utilidades\obj\Debug\netcoreapp3.1\SistemaInventario.Utilidades.AssemblyInfo.cs
+C:\Users\Alex\Source\Repos\ImnovaTech\SistemaInventario.Utilidades\obj\Debug\netcoreapp3.1\SistemaInventario.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Source\Repos\ImnovaTech\SistemaInventario.Utilidades\obj\Debug\netcoreapp3.1\SistemaInventario.Utilidades.dll
+C:\Users\Alex\Source\Repos\ImnovaTech\SistemaInventario.Utilidades\obj\Debug\netcoreapp3.1\SistemaInventario.Utilidades.pdb
