@@ -34,14 +34,7 @@ namespace SistemaInventario.Areas.Inventario.Controllers
         {
             return View();
         }
-        public IActionResult AcercaDe()
-        {
-            return View();
-        }
-        public IActionResult Contacto()
-        {
-            return View();
-        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {

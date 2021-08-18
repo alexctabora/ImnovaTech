@@ -49,7 +49,7 @@ namespace SistemaInventario.Areas.Identity.Pages.Account
             [DataType(DataType.Password)]
             public string Password { get; set; }
 
-            [Display(Name = "Recordar?")]
+            [Display(Name = "Remember me?")]
             public bool RememberMe { get; set; }
         }
 
