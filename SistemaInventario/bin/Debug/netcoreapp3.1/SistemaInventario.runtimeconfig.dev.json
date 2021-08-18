@@ -1,8 +1,9 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\giank\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\giank\\.nuget\\packages"
+      "C:\\Users\\dilan\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\dilan\\.nuget\\packages",
+      "E:\\VisualComponents\\NuGetPackages"
     ]
   }
 }

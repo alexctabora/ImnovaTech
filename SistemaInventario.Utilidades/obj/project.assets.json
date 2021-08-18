@@ -627,19 +627,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\giank\\.nuget\\packages\\": {}
+    "C:\\Users\\dilan\\.nuget\\packages\\": {},
+    "E:\\VisualComponents\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\giank\\Source\\Repos\\ImnovaTech\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj",
+      "projectUniqueName": "C:\\Users\\dilan\\Documents\\GitHub\\ImnovaTech\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj",
       "projectName": "SistemaInventario.Utilidades",
-      "projectPath": "C:\\Users\\giank\\Source\\Repos\\ImnovaTech\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj",
-      "packagesPath": "C:\\Users\\giank\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\giank\\Source\\Repos\\ImnovaTech\\SistemaInventario.Utilidades\\obj\\",
+      "projectPath": "C:\\Users\\dilan\\Documents\\GitHub\\ImnovaTech\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj",
+      "packagesPath": "C:\\Users\\dilan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dilan\\Documents\\GitHub\\ImnovaTech\\SistemaInventario.Utilidades\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "E:\\VisualComponents\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\giank\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\dilan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -685,14 +690,11 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
       }
     }
   }

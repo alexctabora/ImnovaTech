@@ -25,6 +25,7 @@ C:\Users\Alex\Source\Repos\ImnovaTech\SistemaInventario.Modelos\obj\Debug\netcor
 C:\Users\Alex\Source\Repos\ImnovaTech\SistemaInventario.Modelos\obj\Debug\netcoreapp3.1\SistemaInventario.Modelos.csproj.CoreCompileInputs.cache
 C:\Users\Alex\Source\Repos\ImnovaTech\SistemaInventario.Modelos\obj\Debug\netcoreapp3.1\SistemaInventario.Modelos.dll
 C:\Users\Alex\Source\Repos\ImnovaTech\SistemaInventario.Modelos\obj\Debug\netcoreapp3.1\SistemaInventario.Modelos.pdb
+<<<<<<< HEAD
 C:\Users\giank\Source\Repos\ImnovaTech\SistemaInventario.Modelos\bin\Debug\netcoreapp3.1\SistemaInventario.Modelos.deps.json
 C:\Users\giank\Source\Repos\ImnovaTech\SistemaInventario.Modelos\bin\Debug\netcoreapp3.1\SistemaInventario.Modelos.dll
 C:\Users\giank\Source\Repos\ImnovaTech\SistemaInventario.Modelos\bin\Debug\netcoreapp3.1\SistemaInventario.Modelos.pdb
@@ -34,3 +35,14 @@ C:\Users\giank\Source\Repos\ImnovaTech\SistemaInventario.Modelos\obj\Debug\netco
 C:\Users\giank\Source\Repos\ImnovaTech\SistemaInventario.Modelos\obj\Debug\netcoreapp3.1\SistemaInventario.Modelos.csproj.CoreCompileInputs.cache
 C:\Users\giank\Source\Repos\ImnovaTech\SistemaInventario.Modelos\obj\Debug\netcoreapp3.1\SistemaInventario.Modelos.dll
 C:\Users\giank\Source\Repos\ImnovaTech\SistemaInventario.Modelos\obj\Debug\netcoreapp3.1\SistemaInventario.Modelos.pdb
+=======
+C:\Users\dilan\Documents\GitHub\ImnovaTech\SistemaInventario.Modelos\bin\Debug\netcoreapp3.1\SistemaInventario.Modelos.deps.json
+C:\Users\dilan\Documents\GitHub\ImnovaTech\SistemaInventario.Modelos\bin\Debug\netcoreapp3.1\SistemaInventario.Modelos.dll
+C:\Users\dilan\Documents\GitHub\ImnovaTech\SistemaInventario.Modelos\bin\Debug\netcoreapp3.1\SistemaInventario.Modelos.pdb
+C:\Users\dilan\Documents\GitHub\ImnovaTech\SistemaInventario.Modelos\obj\Debug\netcoreapp3.1\SistemaInventario.Modelos.csproj.AssemblyReference.cache
+C:\Users\dilan\Documents\GitHub\ImnovaTech\SistemaInventario.Modelos\obj\Debug\netcoreapp3.1\SistemaInventario.Modelos.AssemblyInfoInputs.cache
+C:\Users\dilan\Documents\GitHub\ImnovaTech\SistemaInventario.Modelos\obj\Debug\netcoreapp3.1\SistemaInventario.Modelos.AssemblyInfo.cs
+C:\Users\dilan\Documents\GitHub\ImnovaTech\SistemaInventario.Modelos\obj\Debug\netcoreapp3.1\SistemaInventario.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\dilan\Documents\GitHub\ImnovaTech\SistemaInventario.Modelos\obj\Debug\netcoreapp3.1\SistemaInventario.Modelos.dll
+C:\Users\dilan\Documents\GitHub\ImnovaTech\SistemaInventario.Modelos\obj\Debug\netcoreapp3.1\SistemaInventario.Modelos.pdb
+>>>>>>> 170e6695d9c6e8d4117bca1c2941c43d52ae8c63
