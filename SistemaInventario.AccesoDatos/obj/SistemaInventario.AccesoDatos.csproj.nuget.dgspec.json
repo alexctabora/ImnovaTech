@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\giank\\Source\\Repos\\ImnovaTech\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj": {}
+    "C:\\Users\\giank\\source\\repos\\ImnovaTech\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\giank\\Source\\Repos\\ImnovaTech\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj": {
+    "C:\\Users\\giank\\source\\repos\\ImnovaTech\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\giank\\Source\\Repos\\ImnovaTech\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj",
+        "projectUniqueName": "C:\\Users\\giank\\source\\repos\\ImnovaTech\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj",
         "projectName": "SistemaInventario.AccesoDatos",
-        "projectPath": "C:\\Users\\giank\\Source\\Repos\\ImnovaTech\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj",
+        "projectPath": "C:\\Users\\giank\\source\\repos\\ImnovaTech\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj",
         "packagesPath": "C:\\Users\\giank\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\giank\\Source\\Repos\\ImnovaTech\\SistemaInventario.AccesoDatos\\obj\\",
+        "outputPath": "C:\\Users\\giank\\source\\repos\\ImnovaTech\\SistemaInventario.AccesoDatos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\giank\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\giank\\Source\\Repos\\ImnovaTech\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj": {
-                "projectPath": "C:\\Users\\giank\\Source\\Repos\\ImnovaTech\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj"
+              "C:\\Users\\giank\\source\\repos\\ImnovaTech\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj": {
+                "projectPath": "C:\\Users\\giank\\source\\repos\\ImnovaTech\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj"
               },
-              "C:\\Users\\giank\\Source\\Repos\\ImnovaTech\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj": {
-                "projectPath": "C:\\Users\\giank\\Source\\Repos\\ImnovaTech\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj"
+              "C:\\Users\\giank\\source\\repos\\ImnovaTech\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj": {
+                "projectPath": "C:\\Users\\giank\\source\\repos\\ImnovaTech\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj"
               }
             }
           }
@@ -82,14 +82,14 @@
         }
       }
     },
-    "C:\\Users\\giank\\Source\\Repos\\ImnovaTech\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj": {
+    "C:\\Users\\giank\\source\\repos\\ImnovaTech\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\giank\\Source\\Repos\\ImnovaTech\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj",
+        "projectUniqueName": "C:\\Users\\giank\\source\\repos\\ImnovaTech\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj",
         "projectName": "SistemaInventario.Modelos",
-        "projectPath": "C:\\Users\\giank\\Source\\Repos\\ImnovaTech\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj",
+        "projectPath": "C:\\Users\\giank\\source\\repos\\ImnovaTech\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj",
         "packagesPath": "C:\\Users\\giank\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\giank\\Source\\Repos\\ImnovaTech\\SistemaInventario.Modelos\\obj\\",
+        "outputPath": "C:\\Users\\giank\\source\\repos\\ImnovaTech\\SistemaInventario.Modelos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\giank\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -146,14 +146,14 @@
         }
       }
     },
-    "C:\\Users\\giank\\Source\\Repos\\ImnovaTech\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj": {
+    "C:\\Users\\giank\\source\\repos\\ImnovaTech\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\giank\\Source\\Repos\\ImnovaTech\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj",
+        "projectUniqueName": "C:\\Users\\giank\\source\\repos\\ImnovaTech\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj",
         "projectName": "SistemaInventario.Utilidades",
-        "projectPath": "C:\\Users\\giank\\Source\\Repos\\ImnovaTech\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj",
+        "projectPath": "C:\\Users\\giank\\source\\repos\\ImnovaTech\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj",
         "packagesPath": "C:\\Users\\giank\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\giank\\Source\\Repos\\ImnovaTech\\SistemaInventario.Utilidades\\obj\\",
+        "outputPath": "C:\\Users\\giank\\source\\repos\\ImnovaTech\\SistemaInventario.Utilidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\giank\\AppData\\Roaming\\NuGet\\NuGet.Config",

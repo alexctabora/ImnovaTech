@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0mZ59UDSHKF7yGnQVFJXStpttiPRFiHtjaDMAmndpdVbZM7GKnT62XAYHDhgNXaRTpzO/8sTVBpC1CEKZA9Dhg==",
+  "dgSpecHash": "M2GGqGiEiSYxNlX4vkd4H36xxB/sezKuyCQKdNYJax5em0YR7iYHA+OKjQGaDt30NeRDY/1kG77rOVmvsLMzuw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\giank\\Source\\Repos\\ImnovaTech\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj",
+  "projectFilePath": "C:\\Users\\giank\\source\\repos\\ImnovaTech\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\giank\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
     "C:\\Users\\giank\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
