@@ -3315,7 +3315,10 @@
         },
         "runtime": {
           "bin/placeholder/SistemaInventario.AccesoDatos.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       },
       "SistemaInventario.Modelos/1.0.0": {
         "type": "project",
@@ -3343,7 +3346,10 @@
         },
         "runtime": {
           "bin/placeholder/SistemaInventario.Utilidades.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       }
     }
   },
@@ -10065,24 +10071,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Alex\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\giank\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alex\\Source\\Repos\\ImnovaTech\\SistemaInventario\\SistemaInventario.csproj",
+      "projectUniqueName": "C:\\Users\\giank\\Source\\Repos\\ImnovaTech\\SistemaInventario\\SistemaInventario.csproj",
       "projectName": "SistemaInventario",
-      "projectPath": "C:\\Users\\Alex\\Source\\Repos\\ImnovaTech\\SistemaInventario\\SistemaInventario.csproj",
-      "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alex\\Source\\Repos\\ImnovaTech\\SistemaInventario\\obj\\",
+      "projectPath": "C:\\Users\\giank\\Source\\Repos\\ImnovaTech\\SistemaInventario\\SistemaInventario.csproj",
+      "packagesPath": "C:\\Users\\giank\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\giank\\Source\\Repos\\ImnovaTech\\SistemaInventario\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\giank\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -10096,14 +10097,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Alex\\Source\\Repos\\ImnovaTech\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj": {
-              "projectPath": "C:\\Users\\Alex\\Source\\Repos\\ImnovaTech\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj"
+            "C:\\Users\\giank\\Source\\Repos\\ImnovaTech\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj": {
+              "projectPath": "C:\\Users\\giank\\Source\\Repos\\ImnovaTech\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj"
             },
-            "C:\\Users\\Alex\\Source\\Repos\\ImnovaTech\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj": {
-              "projectPath": "C:\\Users\\Alex\\Source\\Repos\\ImnovaTech\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj"
+            "C:\\Users\\giank\\Source\\Repos\\ImnovaTech\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj": {
+              "projectPath": "C:\\Users\\giank\\Source\\Repos\\ImnovaTech\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj"
             },
-            "C:\\Users\\Alex\\Source\\Repos\\ImnovaTech\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj": {
-              "projectPath": "C:\\Users\\Alex\\Source\\Repos\\ImnovaTech\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj"
+            "C:\\Users\\giank\\Source\\Repos\\ImnovaTech\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj": {
+              "projectPath": "C:\\Users\\giank\\Source\\Repos\\ImnovaTech\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj"
             }
           }
         }
@@ -10169,7 +10170,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
