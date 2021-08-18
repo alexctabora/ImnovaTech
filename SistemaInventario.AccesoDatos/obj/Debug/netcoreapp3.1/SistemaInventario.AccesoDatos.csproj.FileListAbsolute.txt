@@ -40,6 +40,7 @@ C:\Users\Alex\Source\Repos\ImnovaTech\SistemaInventario.AccesoDatos\obj\Debug\ne
 C:\Users\Alex\Source\Repos\ImnovaTech\SistemaInventario.AccesoDatos\obj\Debug\netcoreapp3.1\SistemaInventario.AccesoDatos.csproj.CopyComplete
 C:\Users\Alex\Source\Repos\ImnovaTech\SistemaInventario.AccesoDatos\obj\Debug\netcoreapp3.1\SistemaInventario.AccesoDatos.dll
 C:\Users\Alex\Source\Repos\ImnovaTech\SistemaInventario.AccesoDatos\obj\Debug\netcoreapp3.1\SistemaInventario.AccesoDatos.pdb
+<<<<<<< HEAD
 C:\Users\giank\Source\Repos\ImnovaTech\SistemaInventario.AccesoDatos\bin\Debug\netcoreapp3.1\SistemaInventario.AccesoDatos.deps.json
 C:\Users\giank\Source\Repos\ImnovaTech\SistemaInventario.AccesoDatos\bin\Debug\netcoreapp3.1\SistemaInventario.AccesoDatos.dll
 C:\Users\giank\Source\Repos\ImnovaTech\SistemaInventario.AccesoDatos\bin\Debug\netcoreapp3.1\SistemaInventario.AccesoDatos.pdb
@@ -54,3 +55,19 @@ C:\Users\giank\Source\Repos\ImnovaTech\SistemaInventario.AccesoDatos\obj\Debug\n
 C:\Users\giank\Source\Repos\ImnovaTech\SistemaInventario.AccesoDatos\obj\Debug\netcoreapp3.1\SistemaInventario.AccesoDatos.csproj.CopyComplete
 C:\Users\giank\Source\Repos\ImnovaTech\SistemaInventario.AccesoDatos\obj\Debug\netcoreapp3.1\SistemaInventario.AccesoDatos.dll
 C:\Users\giank\Source\Repos\ImnovaTech\SistemaInventario.AccesoDatos\obj\Debug\netcoreapp3.1\SistemaInventario.AccesoDatos.pdb
+=======
+C:\Users\dilan\Documents\GitHub\ImnovaTech\SistemaInventario.AccesoDatos\bin\Debug\netcoreapp3.1\SistemaInventario.AccesoDatos.deps.json
+C:\Users\dilan\Documents\GitHub\ImnovaTech\SistemaInventario.AccesoDatos\bin\Debug\netcoreapp3.1\SistemaInventario.AccesoDatos.dll
+C:\Users\dilan\Documents\GitHub\ImnovaTech\SistemaInventario.AccesoDatos\bin\Debug\netcoreapp3.1\SistemaInventario.AccesoDatos.pdb
+C:\Users\dilan\Documents\GitHub\ImnovaTech\SistemaInventario.AccesoDatos\bin\Debug\netcoreapp3.1\SistemaInventario.Modelos.dll
+C:\Users\dilan\Documents\GitHub\ImnovaTech\SistemaInventario.AccesoDatos\bin\Debug\netcoreapp3.1\SistemaInventario.Utilidades.dll
+C:\Users\dilan\Documents\GitHub\ImnovaTech\SistemaInventario.AccesoDatos\bin\Debug\netcoreapp3.1\SistemaInventario.Modelos.pdb
+C:\Users\dilan\Documents\GitHub\ImnovaTech\SistemaInventario.AccesoDatos\bin\Debug\netcoreapp3.1\SistemaInventario.Utilidades.pdb
+C:\Users\dilan\Documents\GitHub\ImnovaTech\SistemaInventario.AccesoDatos\obj\Debug\netcoreapp3.1\SistemaInventario.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\dilan\Documents\GitHub\ImnovaTech\SistemaInventario.AccesoDatos\obj\Debug\netcoreapp3.1\SistemaInventario.AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\dilan\Documents\GitHub\ImnovaTech\SistemaInventario.AccesoDatos\obj\Debug\netcoreapp3.1\SistemaInventario.AccesoDatos.AssemblyInfo.cs
+C:\Users\dilan\Documents\GitHub\ImnovaTech\SistemaInventario.AccesoDatos\obj\Debug\netcoreapp3.1\SistemaInventario.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\dilan\Documents\GitHub\ImnovaTech\SistemaInventario.AccesoDatos\obj\Debug\netcoreapp3.1\SistemaInventario.AccesoDatos.csproj.CopyComplete
+C:\Users\dilan\Documents\GitHub\ImnovaTech\SistemaInventario.AccesoDatos\obj\Debug\netcoreapp3.1\SistemaInventario.AccesoDatos.dll
+C:\Users\dilan\Documents\GitHub\ImnovaTech\SistemaInventario.AccesoDatos\obj\Debug\netcoreapp3.1\SistemaInventario.AccesoDatos.pdb
+>>>>>>> 170e6695d9c6e8d4117bca1c2941c43d52ae8c63
