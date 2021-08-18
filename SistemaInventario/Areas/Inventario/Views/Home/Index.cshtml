@@ -23,3 +23,33 @@
 
 
 </div>
+@*<div class="card-deck d-flex flex-wrap justify-content-center">
+
+  
+
+
+    @foreach (var producto in Model)
+    {
+     
+
+       
+<div class="card">
+    <div class="text-center">
+        <img class="card-img-top align-content-center" alt="Imagen de pizza" src="@producto.ImagenUrl" style="max-width: 200px" />
+    </div>
+    <div class="card-body">
+        <input type="text" id="" value="@producto." hidden />
+        <h5 class="card-title">@producto.nombreProducto</h5>
+    </div>
+    <div class="card-footer justify-content-center">
+        <h6 class="precio text-center"><b>₡@producto.precio</b></h6>
+        <button type="button" class="btn btn-secondary d-flex justify-content-center" style="width:100%;" itemid="@item.idProducto" onclick="agregarCarrito(this)" disabled>En el carrito</button>
+    </div>
+</div> }
+            
+
+           
+
+
+
+</div>*@
